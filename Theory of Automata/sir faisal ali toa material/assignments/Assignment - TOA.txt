@@ -1,0 +1,10 @@
+Assignment - TOA
+For each of the following questions:
+1. Make the logic first
+2. Design the machine (state diagram)
+
+Q1. Design a Turing Machine for the unary addition, subtraction, multiplication and division of two numbers. 
+NOTE: Solve all the operations separately.
+Q2. Design a TM for generating the reverse of a string. 
+eg: Let w = △ababb△ -> Tape Drive: △ a b a b b △ reverse(w)
+Q3. Design a TM for comparison. Cases: a<b, a=b & a>b

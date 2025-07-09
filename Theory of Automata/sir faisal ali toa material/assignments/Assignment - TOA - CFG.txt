@@ -1,0 +1,12 @@
+Assignment - TOA - CFG
+Q1: For the given Grammar generate 3 Sentences.
+
+Q2: Implement bottom-up approach.
+
+Q3: Error Handling: The the the itchy bear follows the jumpy dog.
+
+Q4: Generate a simple structure for any programming language ABC.
+
+Q5: Analyze HTML tags and generate CFG for it.
+
+Q6: Using CNF write a Grammar also perform elimination of unit production.

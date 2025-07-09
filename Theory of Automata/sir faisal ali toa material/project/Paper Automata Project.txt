@@ -1,0 +1,48 @@
+Paper Automata Project
+Dear All, I have been waiting for your projects in Paper Automata. 
+I am forwarding you some of the ideas (just for reference, not to make them): You may select the title no two groups within the Section will have the same
+project.
+
+
+DFA Simulation with flipping states
+NFA to DFA conversion model
+Turing Machine with movable tape
+Stack simulation for PDA (Pushdown Automata)
+Vending machine FSM using cams and levers
+Traffic light control automaton
+Elevator control simulation using levers
+Morse code encoder using rotating wheels
+ATM state transitions (card insert, pin, cash, eject)
+Coffee machine state controller
+Binary counter with paper flaps
+Flip-flop circuit with physical toggling
+Boolean expression evaluator with gears
+2-bit FSM transition simulator
+Dancing robot using crank and cam
+Head nodding puppet (yes/no)
+Jumping frog paper machine
+Clapping hands figure
+Flower blooming animation
+Rotating geometric patterns
+Clockwork swirl made of linked paper gears
+Heart pumping simulation
+Orbital planets with rotation
+Earthquake vibration demonstrator
+Pulley-based muscle movement model
+Dice roll automaton (random number)
+Simple maze navigator with steering
+Mini arcade boxing animation
+Origami crane that flaps wings
+Simple camshaft with multiple followers
+Geneva wheel with discrete step motion
+Crank slider mechanism with bouncing piston
+Compound gear paper reducer
+Material Use for Paper Autoamta ( you may use following items)
+Wooden skewers or straws (for axles)
+Paper clips, glue, scissors
+Rubber bands (for elasticity)
+Tape, pins, toothpicks
+Submit your project Proposal and the Project within 2 weeks of time.
+You need to provide the video how does the paper automaton is working
+Concept behind it
+and physical automaton.
