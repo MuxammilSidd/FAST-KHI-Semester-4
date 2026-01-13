@@ -13,6 +13,10 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
 
 - [3rd Semester KHI](https://github.com/MuxammilSidd/FAST-KHI-Semester-3)
 
+- [5th Semester KHI](https://github.com/MuxammilSidd/FAST-KHI-Semester-5)
+
+- [6th Semester KHI](https://github.com/MuxammilSidd/FAST-KHI-Semester-6)
+
 ### 🔗 Guide to get you started
 - [Useful websites you should know!](#-useful-websites-you-should-know)
 
@@ -162,8 +166,12 @@ pata chale toh mujhe bhi bata dena pls
 
 ## 🔗 Course wise guide
 ### 📌 Operating Systems:
+If you thought you'd be taught how to make your own OS, then I have bad news for you. OS (CS-2006) revolves around processes, threading, concurrency & scheduling technique, memory and a large portion of synchronization problems and how to solve them. The course dives deep enough to get you core ideas of how backend infrastructures work, and how to make code more optimized using synchronization techniques. Some topics might feel solely theoretical and memorization may be the only way to ace in them. Lab is not really hard but some coding tasks and commands are difficult to retain, hence practice is mandatory. Fortunately Youtube has vast resources for concepts and inspiration. Spoiler: You won't be asked to build an OS from scratch for your project, part of an OS eg. Scheduler or Kernel might be the max requirement. But usually, an [application](https://github.com/MuxammilSidd/FAST-KHI-Semester-4/blob/main/Operating%20Systems%20(Theory)/Project/OS%20Project%20List.pdf) that demonstrates threading, scheduling techniques, and solves synchronization problems will be good enough to get you full marks in the project. (I hope your project viva is accessed on the basis of your project; if you have worked hard on it, rather than theoretical questions from the course.) The course is also very important from an interview perspective, and several of its concepts overlap with [Database Systems](https://github.com/MuxammilSidd/FAST-KHI-Semester-5/tree/main/Database%20Systems%20(Theory)), so it’s better to grasp them early rather than delaying. Before starting this course, make sure to revise the C language, especially pointers and memory allocation. This is something instructors usually expect you to already know, and it is heavily used in pthread programming throughout the course.
+For resources, follow the [Gate Smashers OS playlist](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&si=o_2ADgMdY4RdKUkM) in detail; it covers concepts clearly and systematically. However, don’t rely only on videos. In finals, there are short reasoning-based questions, so it’s highly recommended to read the course book along with the lectures. The textbook is actually quite good and helps clarify concepts that slides alone cannot. Also, diagrams are extremely important in both mids and finals. A large portion of marks comes from diagram-based questions. This course can get you a decent grade, keep on with the flow, and don't let the topics pile up at the end!
+
 🔗 Useful Youtube Playlists:
 - [Operating System by Gate Smashers](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&si=o_2ADgMdY4RdKUkM)
+- [Operating System by KnowledgeGATE](https://youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD&si=dEsjdESwidOseMoV)
 - [Operating Systems by recluze](https://youtube.com/playlist?list=PLnd7R4Mcw3rLVqVWxTlC99FeDbzjJZO-F&si=-l9-gc3SlHn4-Ina)
 - [Operating System by Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&si=7fcB5FZxGs40j4nZ)
 
@@ -172,7 +180,7 @@ pata chale toh mujhe bhi bata dena pls
 - [Operating System Web Resources](https://codex.cs.yale.edu/avi/os-book/) - Web-page supporting the *Operating System Concepts*.
 - [Operating Systems Slides (.pptx)](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/index.html) - based on Operating System Concepts 10th Ed.
 - [OSDev Org](https://wiki.osdev.org/Expanded_Main_Page) - Companion website for all Operating Systems development & articles.
-
+- [OS 12 Hour One-Shot](https://youtu.be/009FHqBo87Q?si=PpytADEiySecdBmn) - by KnowledgeGATE by Sanchit Sir.
 - [Readers-Writers Problem](https://drive.google.com/file/d/1A-itUJuPg4fYvNwNMwKgP3ozOnr5BGRb/view?usp=drivesdk) - recorded lecture by Ms. Mubashra Fayyaz.
 - [Producer-Consumer Problem](https://drive.google.com/file/d/1etxZuh5l56Os5KXk2Tl36E0Nm8-8NDR5/view?usp=drivesdk) - recorded lecture by Ms. Mubashra Fayyaz.
 
@@ -187,12 +195,13 @@ pata chale toh mujhe bhi bata dena pls
 🔗 Google Drives:
 - [OS Lab Drive Spring'24 (Sir Monis)](https://drive.google.com/drive/folders/15-KaiX7fn005XGsNHp1AnyIQCGZV55RA?usp=sharing)
 
-🔗 Full courses:
-
-
 ---
 
 ### 📌 Theory of Automata:
+TOA is the chain of [Discrete Str](https://github.com/MuxammilSidd/FAST-KHI-Semester-3/tree/main/Discrete%20Structures). For my batch (23K) every assessment was going well until the final exam of TOA. It was exceptionally hard and lengthy, as compared to the finals of other subjects. No one expected this to happen and the whole batch was in shambles. 
+TOA is a very unique and interesting subject, sometimes it seems dry because the implementations of most topics do not exist and are 'hypothetical'. Again, Youtube saves this course. Best advice? Cover the [TOA Complete Course One-Shot](https://youtu.be/9kuynHcM3UA?feature=shared) by Sanchit Sir's KnowledgeGate. Keep a notebook with you and make notes from that lecture, and practice the examples that you encounter in that video. Make sure you complete the full lecture with all notes, as you will revisit these before exams. Also, note that the video covers a couple topics that we aren't taught and vice versa. You can resolve this by following the course outline for TOA. That one-shot lecture is legendary and perfect for anyone starting with TOA, and for more detail and other topics, you can also visit the [playlist for TOA](https://youtube.com/playlist?list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T&feature=shared) by the same channel and also [Gatehub](https://youtube.com/playlist?list=PL1QH9gyQXfgsUBfYUR0WirJASgif4pHVX&feature=shared). 
+Ensure that you finish that lecture by the time your classes begin, otherwise you might be at a complete loss - as the instructors for TOA at our university teach very dry and unpleasantly. You have to work hard for the final exam as the questions (which we encountered too) might be beyond the complexity of questions provided by teachers for practice and even on Youtube. The course will become interesting the more you practice. As an overview, Finite Automata (the first topic you'll likely be taught) is the foundation of many topics throughout, so having mastered that will help a lot!
+
 🔗 Useful Youtube Playlists:
 - [TOC | AUTOMATA THEORY by KnowledgeGATE](https://youtube.com/playlist?list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T&si=Qtwz8cK7nh-dsVgU)
 - [Theory of Computation by THE GATEHUB](https://youtube.com/playlist?list=PL1QH9gyQXfgsUBfYUR0WirJASgif4pHVX&si=k6KkCM4x6NDfcQvG) - post-mid02 topics.
@@ -204,30 +213,46 @@ pata chale toh mujhe bhi bata dena pls
 - [TOA Material](https://nupakistan-my.sharepoint.com/personal/k213195_nu_edu_pk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk213195%5Fnu%5Fedu%5Fpk%2FDocuments%2F%5B03%5D%20Uni%2F%5B04%5D%20Semester%204%2FToA&ga=1) - by Sufiyaan Usmani
 - [Complete TOC Theory of Computation in one shot](https://youtu.be/9kuynHcM3UA?si=4H7eSSWuFOzdnp78) - by KnowledgeGATE
 
-🔗 Google Drives:
-
 ---
 
 ### 📌 Probability and Statistics:
+Probability and Statistics is a course you will find very easy up till Mid-2, especially if you come from an A-Level background. The syllabus is largely a combination of S1 and S2, which are already covered in A-Levels. Later on, the content changes slightly, but the core concepts remain the same. This course is extremely important for Machine Learning, just like [Linear Algebra](https://github.com/MuxammilSidd/FAST-KHI-Semester-3/tree/main/Linear%20Algebra). However, don’t expect much programming. You might get a Python-based assignment (using NumPy/Pandas) in the first assignment, which you’ll likely enjoy a lot, but after that, there is little to no programming involved throughout the course. The course itself is easy and scoring, and the textbook is very good. It’s highly recommended to practice as many questions from the book as possible, as exam questions closely follow the book’s style. The mids are usually lengthy, so make sure to manage your time properly during exams. The course also involves multivariable integration, which you study in MVC, so revising that beforehand will be very helpful. Slides are important, so use them effectively alongside the book. As for YouTube resources, there are some videos available to understand concepts, but it’s hard to find resources that help specifically with book-style or exam-oriented questions. Hence, relying on the book + slides is your best strategy.
+
 🔗 Useful Youtube Playlists:
 - [Probability (Organic Chem Tutor)](https://youtube.com/playlist?list=PL9pHDbh6wKIVyvA0UqM8UuSkyZpfUPO2O&si=7hmCFCj4wEQkWM-W) - compiled by Isha Femur.
-
-🔗 Resources:
-
-🔗 Google Drives:
 
 ---
 
 ### 📌 Computer Architecture:
+Computer Architecture is, honestly, the most difficult and driest course Batch-23K has encountered so far. You might enjoy it if you are genuinely interested in hardware, but since most CS majors lean toward software, many students end up disliking this subject.
+The theory is dry and repetitive, and the worst part is that there are very few resources that actually align with our course outline. The book is extremely lengthy, difficult to read, and lacks proper illustrations, which makes it even harder to stay engaged.
+Realistically, the only useful resource I found for this course is the [Computer Architecture Playlist by John Jose.](https://youtube.com/playlist?list=PLwdnzlV3ogoU0TR333JyxG8T3HDg52S0h&si=-d2V0n3jjBGnJHxB)
+For Mid-1, the exam is heavily theory-based, so you’ll need to memorize and understand everything from the slides, whether you enjoy it or not—there’s really no shortcut here. For Mid-2, don’t just learn theory. Make sure to practice code snippets related to RAR, WAR, and WAW hazards. These snippets are written in assembly language, so it’s better to accept that early and get comfortable with it instead of avoiding it. For final exams, the focus shifts heavily toward numerical problems, which carry a large weightage. Practice every type of numerical, even the ones you find only in the book, because finals often include questions beyond the slides.
+Overall, this is a difficult course—not just conceptually, but also because of:
+Lack of proper resources,
+Dry content,
+Difficulty in staying motivated & interested.
+Take this course very seriously from the start, otherwise it can quickly turn into a major headache later on.
+
 🔗 Useful Youtube Playlists:
-
-
-🔗 Resources:
+- [Computer Architecture Playlist by John Jose](https://youtube.com/playlist?list=PLwdnzlV3ogoU0TR333JyxG8T3HDg52S0h&si=-d2V0n3jjBGnJHxB)
 
 ---
 
 ### 📌 Psychology:
+Psychology is an easy-scoring course and can almost guarantee a 4.0 GPA if studied with even a little dedication. The course is extremely interesting, as you become familiar with various psychological disorders, their symptoms, and real-world case studies. The study of these disorders is genuinely engaging, and you will definitely enjoy the subject throughout the semester.
+From a scoring perspective, it is highly recommended to obtain Miss Aqsa’s section slides. Most of the MCQs and theory questions in the exam come directly from these slides. Moreover, since she is the course coordinator, the marking scheme is also aligned with her slides. You can simply skim through your own instructor’s slides and thoroughly study Miss Aqsa’s slides to secure an A+ comfortably.
+Overall, this course deserves 10/10 for interest development and 10/10 for GPA boosting.
+
 🔗 Resources:
+These following videos will help you visualize patients behavior, understand real-life reactions, and make the concepts much easier to remember for exams.
+- [Schizophrenia Episode](https://youtu.be/_ocNXvBMuSw?si=pYUKoJd4hKJ-tyzF)
+
+- [OCD and Anxiety Disorders: Crash Course Psychology](https://youtu.be/aX7jnVXXG5o?si=fgPCxSFanlyBsPGY)
+
+- [Living with ADHD: Symptoms, Diagnosis & Treatment](https://youtu.be/_yARt1DcPJU?si=Qni4CjACRXIFtZN0)
+
+- [Bobo Doll Experiment](https://youtu.be/dmBqwWlJg8U?si=IsRSKG0dEIhmXlfy)
 
 ---
 ### 📌 Sociology:
