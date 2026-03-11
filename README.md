@@ -75,7 +75,7 @@ For any queries/improvement feel free to contact me on k232001@nu.edu.pk<br>For 
     <td rowspan="2" style="text-align:center;">5</td>
     <td>SS2019</td>
     <td>PSYCH</td>
-    <td>Psychology</td>
+    <td><a href="#-psychology">Psychology</a></td>
     <td>Elective</td>
     <td>2</td>
   </tr>
